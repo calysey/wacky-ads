@@ -647,11 +647,11 @@ lib.properties = {
 	color: "#9966FF",
 	opacity: 0.00,
 	manifest: [
-		{src:"covetedtemptations.jpeg", id:"covetedtemptations"},
-		{src:"logodark3x1copy.png", id:"logodark3x1copy"},
-		{src:"noseless.jpeg", id:"noseless"},
-		{src:"shadow.png", id:"shadow"},
-		{src:"themarvels.jpeg", id:"themarvels"}
+		{src:"images/covetedtemptations.jpeg", id:"covetedtemptations"},
+		{src:"images/logodark3x1copy.png", id:"logodark3x1copy"},
+		{src:"images/noseless.jpeg", id:"noseless"},
+		{src:"images/shadow.png", id:"shadow"},
+		{src:"images/themarvels.jpeg", id:"themarvels"}
 	],
 	preloads: []
 };

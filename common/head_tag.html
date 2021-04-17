@@ -1,6 +1,6 @@
-<script src="https://code.createjs.com/1.0.0/createjs.min.js"></script>
-<script src="https://storage.wackywriters.com/original/3X/c/b/cb9a3c40b49b25fcc00f8ce7e63f0587fc6078ef.js"></script>
-<script type="text/discourse-plugin" version="0.8">
+<script src="libs/1.0.0/createjs.min.js"></script>
+<script src="bookad.js"></script>
+<script>
 var canvas, stage, exportRoot, anim_container, dom_overlay_container, fnStartAnimation;
 function init() {
 	canvas = document.getElementById("canvas");
@@ -40,4 +40,7 @@ function handleComplete(evt,comp) {
 	AdobeAn.compositionLoaded(lib.properties.id);
 	fnStartAnimation();
 }
+if (window.attachEvent) {window.attachEvent('onload', init);}
+else if (window.addEventListener) {window.addEventListener('load', init, false);}
+else {document.addEventListener('load', init, false);}
 </script>
