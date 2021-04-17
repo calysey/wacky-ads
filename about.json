@@ -8,14 +8,14 @@
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
-    "bookad": "/assets/bookad.js",
-    "themarvels": "/assets/images/themarvels.jpeg",
-    "logodark3x1copy": "/assets/images/logodark3x1copy.png",
-    "covetedtemptations": "/assets/images/covetedtemptations.jpeg",
-    "noseless": "/assets/images/noseless.jpeg",
-    "shadow": "/assets/images/shadow.png",
-    "bookad_atlas_1": "/assets/images/bookad_atlas_1.png",
-    "createjsmin": "/assets/libs/1.0.0/createjs.min.js"
+    "bookad": "assets/bookad.js",
+    "themarvels": "assets/images/themarvels.jpeg",
+    "logodark3x1copy": "assets/images/logodark3x1copy.png",
+    "covetedtemptations": "assets/images/covetedtemptations.jpeg",
+    "noseless": "assets/images/noseless.jpeg",
+    "shadow": "assets/images/shadow.png",
+    "bookad_atlas_1": "assets/images/bookad_atlas_1.png",
+    "createjsmin": "assets/libs/1.0.0/createjs.min.js"
   },
   "color_schemes": {
   },
