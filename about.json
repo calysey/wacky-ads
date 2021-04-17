@@ -15,7 +15,7 @@
     "noseless": "/assets/images/noseless.jpeg",
     "shadow": "/assets/images/shadow.png",
     "bookad_atlas_1": "/assets/images/bookad_atlas_1.png",
-    "createjs.min": "/assets/libs/1.0.0/createjs.min.js"
+    "createjsmin": "/assets/libs/1.0.0/createjs.min.js"
   },
   "color_schemes": {
   },
